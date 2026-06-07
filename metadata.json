@@ -1,0 +1,6 @@
+{
+  "name": "Email Chat",
+  "description": "An elegant chat application where you can register with your email address, join live offline and online-simulated dialogues, and swap between profiles to text each other.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
